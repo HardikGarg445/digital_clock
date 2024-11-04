@@ -1,6 +1,6 @@
 /* Center the clock and set full background */
 body {
-  background-color: #677d60; /* Full black background */
+  background-image:linear-gradient(black, red); /* Full black background */
   display: flex;
   justify-content: center;
   align-items: center;
